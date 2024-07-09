@@ -1,0 +1,10 @@
+{
+  "material-icon-theme.files.customClones": [
+    {
+      "name": "rust-mod",
+      "base": "html",
+      "color": "blue-400",
+      "fileNames": ["index.html"]
+    }
+  ]
+}
